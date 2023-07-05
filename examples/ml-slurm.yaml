@@ -16,7 +16,7 @@
 blueprint_name: ml-slurm
 
 vars:
-  project_id:  ## Set project id here
+  project_id:  virtual-flow-1
   deployment_name: ml-example
   region: us-central1
   zone: us-central1-a
